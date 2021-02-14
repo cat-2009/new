@@ -1,0 +1,23 @@
+.img_class {
+  background-color: pink;  
+  margin: 10px;
+  padding: 20px;
+  border-radius: 30px;
+  border: 8px solid #FF00FF
+}
+h2 {
+    color: #FF00FF;
+}
+p {
+    font-size: 20px;
+}
+a {
+    color: red;
+    border: 2px solid red;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 30px;
+}
+body {
+    margin: 20px;
+}
